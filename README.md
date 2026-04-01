@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=30&letterSpacing=&pause=12000&color=C4E2FFFF&center=true&width=435&lines=Ol%C3%A1!+Bem-vindo+ao+meu+perfil%2C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=30&letterSpacing=&pause=12000&color=88c0d0&center=true&width=435&lines=Ol%C3%A1!+Bem-vindo+ao+meu+perfil%2C" alt="Typing SVG" /></a>
 </div>
 
 #
@@ -21,37 +21,36 @@ Tenho sede por conhecimento: busco o "porquê" por trás dos números tentando t
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zf0rest)
 [![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucasreges)
 
-<h3 align="left">Minha Stack ~</h3>
+<h3 align="left">Minha Stack </h3>
 <div align="left">
 
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="35" />
   
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="35"/>
 
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="25"/>
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="35"/>
+        
 
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"  height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"  height="35" />
             
 
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="35"/>
           
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="25" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="35" alt="jupyter logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
 
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="35" />
 
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="25" />
-
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"height="35" />
           
 </div>
 
@@ -59,9 +58,12 @@ Tenho sede por conhecimento: busco o "porquê" por trás dos números tentando t
 
 <div style="text-align: center;" align="center">
   <br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zf0rest&theme=black-ice&border_radius=40&locale=pt_BR&hide_longest_streak=true" alt="GitHub Streak" />
 
-</a> 
+ | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zf0rest&theme=nord&hide_border=true)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zf0rest&theme=nord_dark&utcOffset=8) |
+ | :-: | :-: |
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zf0rest&theme=nord_dark)
 
 </div>
 
