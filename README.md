@@ -12,7 +12,7 @@ Tenho sede por conhecimento: busco o "porquê" por trás dos números tentando t
   
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="./src/Infinite blue bars.gif">
 
 <h3 align="left">Se interessou? Conecte-se comigo</h3>
 
