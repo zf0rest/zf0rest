@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=30&letterSpacing=&pause=12000&color=333333&center=true&width=435&lines=Ol%C3%A1!+Bem-vindo+ao+meu+perfil%2C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=30&letterSpacing=&pause=12000&color=C4E2FFFF&center=true&width=435&lines=Ol%C3%A1!+Bem-vindo+ao+meu+perfil%2C" alt="Typing SVG" /></a>
 </div>
 
 #
@@ -12,7 +12,7 @@ Tenho sede por conhecimento: busco o "porquê" por trás dos números tentando t
   
 #
 
-<img align="right" alt="" height="190px" src="./src/Infinite blue bars.gif">
+<img align="right" alt="" height="200px" src="./src/white clouds.gif">
 
 <h3 align="left">Se interessou? Conecte-se comigo</h3>
 
